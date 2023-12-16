@@ -1,0 +1,20 @@
+.completed .todoText{
+    opacity: 0.6;
+    text-decoration: line-through;
+
+}
+
+#orta{
+    display: flex;
+    text-align: center;
+}
+
+#inputyani{
+    display: inline-block;
+}
+
+#ortada{
+    position: relative;
+
+    margin:auto;
+}
